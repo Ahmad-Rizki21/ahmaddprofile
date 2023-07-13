@@ -6,7 +6,7 @@ import cisco from "../assets/R.png";
 import mikrotik from "../assets/Mikrotik_Router-Cyberpassnet.png";
 import react from "../assets/react.png";
 import tailwind from "../assets/tailwind.png";
-import nextjs from "../assets/nextjs.png";
+import css from "../assets/css.png";
 import html from "../assets/html.png";
 import js from "../assets/javascript.png";
 
@@ -52,8 +52,8 @@ const Experience = () => {
     },
     {
       id: 7,
-      src: nextjs,
-      title: "Nextjs",
+      src: css,
+      title: "CSS",
       style: "shadow-orange-500",
     },
     {
